@@ -1,0 +1,39 @@
+/* Fonts */
+@font-face {
+  font-family: 'UPro';
+  font-style: normal;
+  font-weight: 300;
+  src: local('UPro300'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro300.woff) format('woff');
+}
+@font-face {
+  font-family: 'UPro';
+  font-style: italic;
+  font-weight: 300;
+  src: local('UPro300i'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro300i.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'UPro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('UPro400'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro400.woff) format('woff');
+}
+@font-face {
+  font-family: 'UPro';
+  font-style: italic;
+  font-weight: 400;
+  src: local('UPro400i'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro400i.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'UPro';
+  font-style: normal;
+  font-weight: 600;
+  src: local('UPro600'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro600.woff) format('woff');
+}
+@font-face {
+  font-family: 'UPro';
+  font-style: italic;
+  font-weight: 600;
+  src: local('UPro600i'), url(https://cdn.staticaly.com/gh/irfansyahputra/font-family/0fed1226/UPro600i.woff) format('woff');
+}
