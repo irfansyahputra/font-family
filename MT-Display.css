@@ -1,0 +1,54 @@
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 100;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Ultralight-100.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 200;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Light-200.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 300;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Light-200.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 400;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Regular-400.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 500;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Medium-500.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 600;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Semibold-600.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 700;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Bold-700.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 800;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Heavy-800.otf");
+}
+@font-face {
+	font-family: "MTDisplay";
+	font-weight: 900;
+	font-display: block;
+	src: url("https://cdn.statically.io/gh/irfansyahputra/font-family/23f50b04/MT-Display-Black-900.otf");
+}
